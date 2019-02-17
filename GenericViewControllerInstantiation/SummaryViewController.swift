@@ -1,6 +1,6 @@
 //
-//  ViewController.swift
-//  GenericViewControllerInstantiation
+//  SummaryViewController.swift
+//  ViewControllerContainment
 //
 //  Created by Nathan Hsu on 2019-02-16.
 //  Copyright © 2019 Nathan Hsu. All rights reserved.
@@ -8,13 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class SummaryViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
-
-
 }
+
 
